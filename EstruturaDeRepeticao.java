@@ -1,7 +1,7 @@
 public class EstruturaDeRepeticao {
 
     public static void main(String[] args) {
-
+        /* cc é uma variável */
         int cc = 0;
             while (cc<4){
                 System.out.println("panqueca" + (cc+1));
