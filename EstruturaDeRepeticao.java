@@ -4,7 +4,7 @@ public class EstruturaDeRepeticao {
 
         int cc = 0;
             while (cc<4){
-                System.out.println("teste" + (cc+1));
+                System.out.println("panqueca" + (cc+1));
                 cc++;
             }
     }
