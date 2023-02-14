@@ -1,4 +1,5 @@
 import java.util.Scanner;
+/* importar uma biblioteca */
 
 public class InserirObjeto {
     
@@ -9,6 +10,7 @@ public class InserirObjeto {
 
         System.out.println("Informe o valor da base: ");
         base = input.nextInt();
+        /* recebe o que o usuario digitou */
 
         System.out.println("Informe o valor da altura: ");
         altura = input.nextInt();
@@ -18,7 +20,7 @@ public class InserirObjeto {
         System.out.printf("A área de um retângulo de base = " + base);
         System.out.printf("\n e altura de = " + altura);
         System.out.printf("\n é = " + area + "\n");
-        
+
     }
 
 }

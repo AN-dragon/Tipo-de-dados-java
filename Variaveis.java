@@ -7,7 +7,7 @@ public class Variaveis {
         y = 74;
         soma = x + y;
 
-        /* double -- numero decimal */
+        /* double ou float -- numero decimal */
         double z;
         z = 25.7;
 
