@@ -4,6 +4,8 @@ public class MediaDeStyle {
     
     public static void main(String[] args) {
 
+     /*tem a mesma função da MedidaDeNotas, só que com notas de Devil May Cry 3 */
+
         Scanner input = new Scanner(System.in);
         int n1, n2, media;
 
@@ -18,25 +20,25 @@ public class MediaDeStyle {
         System.out.printf("A média foi: " + media + "\n");
 
         if (media == 10) {
-            System.out.print("Smokin' Sick Style!");
+            System.out.print("SSStylish!");
 
         } else if (media == 9) {
-            System.out.print("Sick Style!");
+            System.out.print("SShowtime!");
 
         } else if (media == 8) {
-            System.out.print("Stylish!");
+            System.out.print("Sweet!");
 
         } else if (media == 7) {
-            System.out.print("Amazing");
+            System.out.print("Alright!");
 
         } else if (media == 5 || media == 6) {
-            System.out.print("Brutal");
+            System.out.print("Blast!");
 
         } else if (media == 3 || media == 4) {
-            System.out.print("Crazy");
+            System.out.print("Crazy!");
 
         } else if (media == 1 || media == 2) {
-            System.out.print("Deadly");
+            System.out.print("Dope!");
 
         } else {
             System.out.print("Where is your motivation?");
