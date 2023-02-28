@@ -36,8 +36,10 @@ public class atv2_Pizza {
             System.out.printf("\nAgora com o aumento, seu salário é: R$" + sal_novo);
 
         //Salário surreal
-    //     } else
-    //         System.out.printf("Seu salário atual é: R$" + sal_atual);
-    //         System.out.printf("\nTem certeza que trabalha aqui?");
-    // }
-}
+         } else {
+             System.out.printf("Seu salário atual é: R$" + sal_atual + "...?");
+             System.out.printf("\nTem certeza que trabalha aqui?");
+     }
+    }
+  }
+
