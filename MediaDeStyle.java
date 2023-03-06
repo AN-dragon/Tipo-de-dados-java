@@ -42,7 +42,7 @@ public class MediaDeStyle {
 
         } else {
             System.out.print("Where is your motivation?");
+            
         }
-
     }
 }
