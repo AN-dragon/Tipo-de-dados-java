@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class atv2_Pizza {
+public class atv02_Pizza {
     
     public static void main(String[] args) {
 
@@ -23,7 +23,7 @@ public class atv2_Pizza {
         } else if (sal_atual > 2000 && sal_atual <= 3000) {
             System.out.printf("Seu salário atual é: R$" + sal_atual);
 
-            //Cálculo do salário novo
+
             sal_novo = sal_atual * 1.10;
             System.out.printf("\nAgora com o aumento, seu salário é: R$" + sal_novo);
 
@@ -31,7 +31,7 @@ public class atv2_Pizza {
         } else if (sal_atual > 3000 && sal_atual <= 999000) {
             System.out.printf("Seu salário atual é: R$" + sal_atual);
 
-            //Cálculo do salário novo
+
             sal_novo = sal_atual * 1.05;
             System.out.printf("\nAgora com o aumento, seu salário é: R$" + sal_novo);
 

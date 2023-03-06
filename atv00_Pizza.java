@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class atv0_Pizza {
+public class atv00_Pizza {
     
     public static void main(String[] args) {
 

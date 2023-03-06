@@ -47,7 +47,7 @@ public class atv03_Pizza {
 
         
         } else {
-            System.out.printf("Erro de cálculo rip");
+            System.out.printf("Erro de cálculo rip -- tente novamente.");
 
         }
     }
