@@ -20,10 +20,10 @@ public class MediaDeStyle {
         System.out.printf("A média foi: " + media + "\n");
 
         if (media == 10) {
-            System.out.print("SSStylish!");
+            System.out.print("SSStylish!!!");
 
         } else if (media == 9) {
-            System.out.print("SShowtime!");
+            System.out.print("SShowtime!!");
 
         } else if (media == 8) {
             System.out.print("Sweet!");
