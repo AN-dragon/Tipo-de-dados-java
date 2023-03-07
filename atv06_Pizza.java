@@ -38,7 +38,7 @@ public class atv06_Pizza {
 
 
         } else if (num == 7) {
-            System.out.printf("Sábado! Ou Sétima-feira, se preferir  ^_^");
+            System.out.printf("Sábado! Ou Sétima-feira, se preferir ^_^");
 
 
         } else {
