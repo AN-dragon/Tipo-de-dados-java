@@ -4,6 +4,8 @@ public class atv03_Pizza {
     
     public static void main(String[] args) {
 
+        //Exercício 2
+
         Scanner input = new Scanner(System.in);
         double peso, altura, imc;
 

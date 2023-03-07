@@ -4,6 +4,8 @@ public class atv02_Pizza {
     
     public static void main(String[] args) {
 
+        //Exercício 1
+
         Scanner input = new Scanner(System.in);
         double sal_atual, sal_novo;
 
