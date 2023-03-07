@@ -30,7 +30,7 @@ public class atv06_Pizza {
 
 
         } else if (num == 5) {
-            System.out.printf("Quinta-feira ^▽^ ");
+            System.out.printf("Quinta-feira OwO ");
 
 
         } else if (num == 6) {
